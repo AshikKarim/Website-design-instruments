@@ -1,0 +1,322 @@
+ Notification bell:
+
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/ndydpcaq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+
+------------------------
+help center:
+
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/njjuilvq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-2"
+              style="width:250px;height:250px">
+          </lord-icon>
+
+___________________________________--
+warning:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/rslnizbt.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+___________________________________
+arrow:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/npwuqaja.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+
+Arrow:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/vfdqnhfq.json"
+              trigger="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+___________________
+
+arrow up:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/eflfmgmj.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-2"
+              style="width:250px;height:250px">
+          </lord-icon>
+__________________---
+arrow down:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/xhdhjyqy.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-2"
+              style="width:250px;height:250px">
+          </lord-icon>
+_________________________
+flat arrow:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/iifryyua.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-2"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________________
+compare:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/kzwbetjp.json"
+              trigger="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+_____________________
+chat:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/uvextprq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+_________________________--
+call phone:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/cnyeuzxc.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-phone-ring"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________________
+email:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/iicmtpsq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________________
+inbox:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/itykargr.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+___________________________
+clock:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/abgtphux.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________
+alarm:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/rinkvymq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________________
+video cam:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/axyzxviq.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-2"
+              style="width:250px;height:250px">
+          </lord-icon>
+___________________
+wifi:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/yvrjxxqj.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+_____________________
+trash:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/dovoajyj.json"
+              trigger="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+_____________________
+search:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/pvbutfdk.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+___________________
+share:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/iswjnpyk.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________
+history:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/lefmybnc.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________
+book:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/stxtcyyo.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________
+bookmark:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/wurbjznp.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph-marked"
+              style="width:250px;height:250px">
+          </lord-icon>
+_______________________
+folder:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/kpsnbsyj.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+____________________________
+avatar:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/dklbhvrt.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+_________________
+home:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/igpbsrza.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph-1"
+              style="width:250px;height:250px">
+          </lord-icon>
+__________________
+settings:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/ryyjawhw.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover-1"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________________
+shopping:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/aoggitwj.json"
+              trigger="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________________
+code:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/etllbcfy.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________________
+favourite heart:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/kkcllwsu.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph"
+              style="width:250px;height:250px">
+          </lord-icon>
+________________
+calendar:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/drtetngs.json"
+              trigger="morph"
+              colors="primary:#121331"
+              state="morph"
+              style="width:250px;height:250px">
+          </lord-icon>
+_______________-
+bank:
+          <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+          <lord-icon
+              src="https://cdn.lordicon.com/hfmdczge.json"
+              trigger="hover"
+              colors="primary:#121331"
+              state="hover"
+              style="width:250px;height:250px">
+          </lord-icon>
+______________
+
+Visit this site for more animated icos:
+=================================================================================
+    link:https://lordicon.com/icons/wired/lineal
+=================================================================================
