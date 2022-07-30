@@ -33,3 +33,10 @@ Links for Websites:
           25. https://www.manypixels.co/
           
  
+ 
+ 
+ 
+ Donate if you want to:
+ ![QR Code](https://user-images.githubusercontent.com/102758562/181919083-5b442ebf-f6a1-46e3-bea0-5cb949175926.png)
+
+ 
